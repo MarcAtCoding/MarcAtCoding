@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcAtCoding
 - 👀 I’m interested in Software dev and Web dev
-- 🌱 I’m currently learning C#, Javascript, HTML, & CSS
+- 🌱 I’m currently learning C#, Javascript, HTML, CSS, & React
 
 <!---
 MarcAtCoding/MarcAtCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
